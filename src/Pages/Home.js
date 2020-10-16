@@ -37,6 +37,12 @@ export default function Home() {
                         <a href="https://drive.google.com/file/d/1VZ1CCE1i-neSuzjQ7Yk7rF7l-dXpYap7/view?usp=sharing">Assignment 1</a>
                     </Col>
                 </Row>
+                <Row className="py-3">
+                    <Col />
+                    <Col className="text-right">
+                        <a href="https://drive.google.com/file/d/1nuwOqpOuaZLYfYZHAzPU969wtH_WddC9/view?usp=sharing">Assignment 2</a>
+                    </Col>
+                </Row>
             </Container>
         </div>
     )
